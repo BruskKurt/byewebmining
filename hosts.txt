@@ -1,0 +1,45 @@
+# Brusk Kurt - Bye Web Mining
+# Bloque le WebMining depuis les navigateurs.
+#
+# Page d'accueil: https://github.com/BruskKurt/byewebmining
+# Contribuer: https://github.com/BruskKurt/byewebminingissues
+# License: https://mit-license.org/
+#
+# Dernière modification: 05/12/2017
+
+127.0.0.1 localhost
+::1 localhost
+
+0.0.0.0 cnhv.co
+0.0.0.0 coin-hive.com
+0.0.0.0 coinhive.com
+0.0.0.0 gus.host
+0.0.0.0 load.jsecoin.com
+0.0.0.0 miner.pr0gramm.com
+0.0.0.0 minemytraffic.com
+0.0.0.0 ppoi.org
+0.0.0.0 projectpoi.com
+0.0.0.0 azvjudwr.info
+0.0.0.0 jroqvbvw.info
+0.0.0.0 jyhfuqoh.info
+0.0.0.0 kdowqlpt.info
+0.0.0.0 xbasfbno.info
+0.0.0.0 crypto-loot.com
+0.0.0.0 coinerra.com
+0.0.0.0 coin-have.com
+0.0.0.0 minero.pw
+0.0.0.0 minero-proxy-01.now.sh
+0.0.0.0 minero-proxy-02.now.sh
+0.0.0.0 minero-proxy-03.now.sh
+0.0.0.0 api.inwemo.com
+0.0.0.0 rocks.io
+0.0.0.0 adminer.com
+0.0.0.0 ad-miner.com
+0.0.0.0 jsccnn.com
+0.0.0.0 jscdndel.com
+0.0.0.0 coinhiveproxy.com
+0.0.0.0 coinblind.com
+0.0.0.0 coinnebula.com
+0.0.0.0 monerominer.rocks
+0.0.0.0 cdn.cloudcoins.co
+0.0.0.0 coinlab.biz
