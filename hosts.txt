@@ -5,7 +5,7 @@
 # Contribuer: https://github.com/BruskKurt/byewebminingissues
 # License: https://mit-license.org/
 #
-# Dernière modification: 05/12/2017
+# Dernière modification: 16/12/2017
 
 127.0.0.1 localhost
 ::1 localhost
@@ -19,11 +19,6 @@
 0.0.0.0 minemytraffic.com
 0.0.0.0 ppoi.org
 0.0.0.0 projectpoi.com
-0.0.0.0 azvjudwr.info
-0.0.0.0 jroqvbvw.info
-0.0.0.0 jyhfuqoh.info
-0.0.0.0 kdowqlpt.info
-0.0.0.0 xbasfbno.info
 0.0.0.0 crypto-loot.com
 0.0.0.0 coinerra.com
 0.0.0.0 coin-have.com
@@ -43,3 +38,24 @@
 0.0.0.0 monerominer.rocks
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 coinlab.biz
+0.0.0.0 go.megabanners.cf
+0.0.0.0 baiduccdn1.com
+
+# Plus fonctionnel, mais nous les gardons en mémoire si jamais.
+0.0.0.0 azvjudwr.info
+0.0.0.0 jroqvbvw.info
+0.0.0.0 jyhfuqoh.info
+0.0.0.0 kdowqlpt.info
+0.0.0.0 xbasfbno.info
+
+# Suspicion de webmining. Mise en quarantaine au cas où.
+1beb2a44.space
+300ca0d0.space
+310ca263.space
+320ca3f6.space
+330ca589.space
+340ca71c.space
+360caa42.space
+370cabd5.space
+3c0cb3b4.space
+3d0cb547.space
