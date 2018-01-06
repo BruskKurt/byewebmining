@@ -21,7 +21,7 @@ BWM est compatible avec les différents bloqueurs de publicités connus, tel que
 
 #### Lien de la liste (à ajouter dans votre bloqueur de publicités)
 Voici l'URL que vous devez ajouter pour compléter votre bloqueur de publicités et intégrer la protection contre les sites de web-mining:
-https://raw.githubusercontent.com/BruskKurt/byewebmining/master/hosts.txt
+https://raw.githubusercontent.com/BruskKurt/byewebmining/master/byewebmining.txt
 
 #### Tutoriel d'installation
 
