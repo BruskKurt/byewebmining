@@ -1,0 +1,90 @@
+[Adblock Plus 2.0]
+!-------------------------------------------------------------------------------
+! Title: Bye Web Mining
+! Expiration: 2 jours (fréquence de mise à jour)
+! Version: 1
+! Dernière modification: 3 Jan 2018
+! Accueil: https://github.com/BruskKurt/byewebmining
+! Contribuer: https://github.com/BruskKurt/byewebmining/issues
+! License: https://mit-license.org/
+! Description: Bye Web Mining liste et bloque tous les programmes de web-mining
+!              Pour vous protéger de l'utilisation intensive de votre CPU à
+!              votre insu pour miner du bitcoin/cryptomonnaies.
+!-------------------------------------------------------------------------------
+||cnhv.co^$third-party
+||coin-hive.com^$third-party
+||coinhive.com^$third-party
+||gus.host/coins.js
+||jsecoin.com^$third-party
+||miner.pr0gramm.com^$third-party
+||miner.pr0gramm.com^$websocket
+||miner.pr0gramm.com/cryptonight-worker.js
+||minemytraffic.com^$third-party
+||ppoi.org^$third-party
+||projectpoi.com^$third-party
+||kisshentai.net/Content/js/c-hive.js
+||2giga.link/js/hive.js
+||crypto-loot.com^$third-party
+||coinerra.com^$third-party
+||coin-have.com^$third-party
+||minero.pw^$third-party
+||minero-proxy-01.now.sh^$third-party
+||minero-proxy-02.now.sh^$third-party
+||minero-proxy-03.now.sh^$third-party
+||kiwifarms.net/js/Jawsh/xmr/xmr.min.js
+||api.inwemo.com^$third-party
+||rocks.io^$third-party
+||jsccnn.com^$third-party
+||jscdndel.com^$third-party
+||coinhiveproxy.com^$third-party
+||coinblind.com^$third-party
+||coinnebula.com^$third-party
+||monerominer.rocks^$third-party
+||cdn.cloudcoins.co^$third-party
+||coinlab.biz^$third-party
+||go.megabanners.cf^$third-party
+||go.megabanners.cf^$websocket
+||baiduccdn1.com^$third-party
+||cryptoloot.pro^third-party
+||bjorksta.men^$third-party
+||crypto.csgocpu.com^third-party
+||noblock.pro^third-party
+.science^$third-party,domain=vidoza.net
+|http://script,third-party,domain=vidoza.net
+|https://script,third-party,domain=vidoza.net
+$websocket,domain=vidoza.net
+$websocket,domain=powvideo.net
+||1q2w3.me^third-party
+||cryptobara.com/client/worker.js
+||cryptobara.com^$third-party
+||reservedoffers.club^$third-party
+||reservedoffers.club^$csp=child-src 'none';frame-src *;worker-src 'none';
+||biberukalap.com^
+||gridiogrid.com^
+?proxy=wss://mine.
+||mine.torrent.pw^
+||adminer.com^$third-party
+||ad-miner.com^$third-party
+||77.162.125.199^$third-party
+||pool.supportxmr.com^$third-party
+||rapidvideo.com/J5xj_2.js
+.space^$third-party,websocket
+.space^*.wasm$third-party
+||1beb2a44.space^$third-party
+||300ca0d0.space^$third-party
+||310ca263.space^$third-party
+||320ca3f6.space^$third-party
+||330ca589.space^$third-party
+||340ca71c.space^$third-party
+||360caa42.space^$third-party
+||370cabd5.space^$third-party
+||3c0cb3b4.space^$third-party
+||3d0cb547.space^$third-party
+.info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
+/^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net
+||openkatalog.com^$subdocument
+||xbasfbno.info^$third-party
+||azvjudwr.info^$third-party
+||jroqvbvw.info^$third-party
+||jyhfuqoh.info^$third-party
+||kdowqlpt.info^$third-party
